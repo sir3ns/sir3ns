@@ -37,16 +37,16 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-[<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />] (https://github.com/sir3ns)
-[<img  align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />] (https://github.com/sir3ns)
-[<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />] (https://github.com/sir3ns)
-[<img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />] (https://github.com/sir3ns)
-[<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>] (https://github.com/sir3ns)
-[<img align="left" alt="Shell Script" src="https://img.shields.io/badge/shell%20-%23121011?&style=for-the-badge&logo=linux&logoColor=white"/>] (https://github.com/sir3ns)
-[<img  align="left" alt="Bash" width="46px" src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />] (https://github.com/sir3ns)
-[<img align="left" alt="Raspbery Pi" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />] (https://github.com/sir3ns)
-[<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />] (https://github.com/sir3ns)
-[<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] (https://github.com/sir3ns)
+[<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://github.com/sir3ns)
+[<img  align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/sir3ns)
+[<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/sir3ns)
+[<img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/sir3ns)
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sir3ns)
+[<img align="left" alt="Shell Script" src="https://img.shields.io/badge/shell%20-%23121011?&style=for-the-badge&logo=linux&logoColor=white"/>](https://github.com/sir3ns)
+[<img  align="left" alt="Bash" width="46px" src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://github.com/sir3ns)
+[<img align="left" alt="Raspbery Pi" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />](https://github.com/sir3ns)
+[<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/sir3ns)
+[<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/sir3ns)
 
 
 
@@ -57,9 +57,9 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 
 
 <!-- <img align="right" width="290" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding"> -->
-<!-- <p float="right"> -->
+<p float="right">
   <img align="right" height="280em" src="https://raw.githubusercontent.com/zutime1215/cf-stats/main/output/light_card.svg" />
-<!-- </p> -->
+</p>
 
 
 ### Online Judge Profile:
