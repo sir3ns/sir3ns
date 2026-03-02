@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1> 💫 About Me </h1>
 ## Hello there, I am [Zahid Hossen](https://sir3ns.github.io/codefolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I’m a developer and security enthusiast who loves building systems and understanding how things work at a low level. My interests span across Web Development, Cyber Security, Embedded Systems, Robotics, and Machine Learning.
 I work with Node.js, MongoDB, Python, and C++. I’ve built projects involving GPS tracking systems, ESP8266/ESP32 communication, and Raspberry Pi-based hardware integrations.
@@ -25,7 +25,7 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 
 
 
-## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
 
 [<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/zahid.lmn/)
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/sirens_salaman/)
@@ -35,7 +35,7 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 
 
 
-## Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+## Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 [<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://github.com/sir3ns)
 [<img  align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/sir3ns)
@@ -65,7 +65,7 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 </p>
 
 
-## Online Judge Profile:
+## Online Judge Profile
 
 
 
@@ -75,8 +75,7 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 
 
 <br><br><br><br><br>
----
-## Operating System:
+## Operating System
  <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
  <img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -86,9 +85,7 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 
 
 <br><br><br>
-
-
-## My IDEs/Editor:
+## My IDEs/Editor
  <img align="left" alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
  <img align="left" alt="Nano-GNU" src="https://img.shields.io/badge/nano-557C94?style=for-the-badge&logo=gnu&logoColor=black"/>
  <img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
@@ -98,7 +95,7 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 <br><br><br>
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sir3ns&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sir3ns&theme=dark&hide_border=false)<br/>
