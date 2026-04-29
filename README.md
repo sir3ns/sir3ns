@@ -61,7 +61,7 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 
 <!-- <img align="right" width="290" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding"> -->
 <p float="right">
-  <img align="right" height="280em" src="https://raw.githubusercontent.com/zutime1215/cf-stats/main/output/light_card.svg" />
+  <img align="right" height="280em" src="https://raw.githubusercontent.com/sir3ns/cf-stats/main/output/light_card.svg" />
 </p>
 
 
@@ -69,7 +69,7 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 
 
 
-[![Badge](https://raw.githubusercontent.com/zutime1215/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/sirens) [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/Sirens.6308) [![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/sirens_salaman)
+[![Badge](https://raw.githubusercontent.com/sir3ns/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/sirens) [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/Sirens.6308) [![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/sirens_salaman)
 [![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/sirens) [![Badge](https://img.shields.io/badge/Code-Chef-blue)](https://www.codechef.com/users/sirens) 
 
 
