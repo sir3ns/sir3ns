@@ -33,6 +33,95 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/sir3ns)
 
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Digit Recognition
+0-9 handwritten digit recognition with 
+feedforward neural network built with TensorFlow   
+
+🔗 [View Repository](https://github.com/sir3ns/mL-digit-recognition)
+
+</td>
+<td width="50%">
+
+### Iris Flower Classification
+Classification of 3 different spices
+of iris flower with different Algorithm  
+
+🔗 [View Repository](https://github.com/sir3ns/mL_for_everyone-fcc-yt)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Codeforces Daily Solve Tracker Bot
+a Telegram bot script that automates the process of
+tracking competitive programming activity  
+
+🔗 [View Repository](https://github.com/sir3ns/cf_handle_crawler)
+
+</td>
+<td width="50%">
+
+### Kibo RPC 6 - Image Processing & Model Training
+contains all related files during participation in the
+6th Kibo Robot Programming Challenge (Kibo RPC)
+
+🔗 [View Repository](https://github.com/sir3ns/kiboRPC_6)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### OTA updater for ESP32/ESP8266
+update code using Github and local server
+without connecting the cable written with Micro-Python
+
+🔗 [View Repository](https://github.com/sir3ns/micropython-ota)
+
+</td>
+<td width="50%">
+
+### OTA updater for ESP32/ESP8266
+ESP32 OTA Updater using local with Dual OTA
+Partition written with Arduino Framework  
+
+🔗 [View Repository](https://github.com/sir3ns/arduino-OTA)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Line Following Robot
+Line following Robot using PID algorithm.  
+
+🔗 [View Repository](https://github.com/sir3ns/LFR_without_QTR)
+
+</td>
+<td width="50%">
+
+### Chinese smart band hack
+hryfine D115 smart band Hack.
+Random date-time, enable vibrate is available.
+
+🔗 [View Repository](https://github.com/sir3ns/hryfine_D115_hack)
+
+</td>
+</tr>
+
+</table>
+
+
 
 
 ## Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
@@ -107,7 +196,4 @@ I’m also deeply interested in cybersecurity and penetration testing — analyz
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sir3ns&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-## Project
 ---
